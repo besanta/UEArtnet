@@ -1,0 +1,14 @@
+﻿  artnet.c
+  misc.c
+  network.c
+..\..\artnet\network.c(637): warning C4244: '=': conversion from 'ssize_t' to 'int', possible loss of data
+..\..\artnet\network.c(592): warning C4244: 'initializing': conversion from 'artnet_socket_t' to 'int', possible loss of data
+  receive.c
+  tod.c
+  transmit.c
+     Creating library C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Release\libartnet.lib and object C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Release\libartnet.exp
+  Generating code
+  All 107 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  libartnet.vcxproj -> C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Release\libartnet.dll
+  libartnet.vcxproj -> C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Release\libartnet.pdb (Full PDB)

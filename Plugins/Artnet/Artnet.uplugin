@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Artnet",
+  "Description": "An Unreal Plugin integrating libartnet permitting Actors to be recognized as artnetNode",
+  "Category": "Other",
+  "CreatedBy": "nicosanta@brightnightgames.net",
+  "CreatedByURL": "https://github.com/besanta",
+  "DocsURL": "https://github.com/besanta/UEArtnet#README.md",
+  "MarketplaceURL": "",
+  "SupportURL": "https://github.com/besanta/UEArtnet#README.md",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "Artnet",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

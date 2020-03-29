@@ -1,0 +1,12 @@
+﻿  transmit.c
+  tod.c
+  receive.c
+  network.c
+c:\users\miko\documents\github\libartnet\artnet\network.c(637): warning C4244: '=': conversion from 'ssize_t' to 'int', possible loss of data
+c:\users\miko\documents\github\libartnet\artnet\network.c(592): warning C4244: 'initializing': conversion from 'artnet_socket_t' to 'int', possible loss of data
+  misc.c
+  artnet.c
+  Generating Code...
+     Creating library C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Debug\libartnet.lib and object C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Debug\libartnet.exp
+  libartnet.vcxproj -> C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Debug\libartnet.dll
+  libartnet.vcxproj -> C:\Users\Miko\Documents\GitHub\libartnet\msvc\libartnet\x64\Debug\libartnet.pdb (Full PDB)
